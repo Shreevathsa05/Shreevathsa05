@@ -225,7 +225,11 @@ article {
 }
 
 .article-socials {
-  max-height: 30px;
+  min-height: 30px;
+}
+
+.article-socials img {
+  flex-shrink: 0;
 }
 
 a {
