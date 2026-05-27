@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shreevathsa05&theme=radical" alt="shreekant-code" />
-</p>
+
 
 <!--
 ## 🌐 Socials:
