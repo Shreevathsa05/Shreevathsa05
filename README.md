@@ -108,9 +108,9 @@ Cloud       → Docker · Azure · AWS
 ## 📫 Connect
 
 <p align="center">
-  <a href="mailto:bhatshreevathsa17@gmail.com">Email</a> •
+  <a href="mailto:bhatshreevathsa17@gmail.com">bhatshreevathsa17@gmail.com</a> •
   <a href="https://github.com/Shreevathsa05">GitHub</a> •
-  <a href="https://www.linkedin.com/in/shreevathsa-05">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/shreevathsa05/">LinkedIn</a>
 </p>
 
 ---
